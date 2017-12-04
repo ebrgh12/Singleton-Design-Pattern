@@ -1,1 +1,5 @@
-Experimental repo for Design Patterns
+#Singleton Design Pattern
+
+ Classic implementation
+ Synchronized
+ 
